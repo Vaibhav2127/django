@@ -1,0 +1,17 @@
+notes_subscription/
+    ├── manage.py
+    ├── notes_subscription/
+    │   ├── __init__.py
+    │   ├── settings.py
+    │   ├── urls.py
+    │   └── wsgi.py
+    ├── notes/
+    │   ├── __init__.py
+    │   ├── admin.py
+    │   ├── apps.py
+    │   ├── models.py
+    │   ├── views.py
+    │   ├── urls.py
+    │   └── templates/
+    │       └── notes/
+    │           ├── index.htm
